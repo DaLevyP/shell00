@@ -1,0 +1,6 @@
+Credentials cache: API:B5109C57-6B7E-4189-AFB1-B3C754BAE216
+        Principal: dalevy@42.FR
+
+  Issued                Expires               Principal
+Mar  9 14:21:28 2020  Mar 16 14:21:28 2020  krbtgt/42.FR@42.FR
+Mar  9 14:21:30 2020  Mar 16 14:21:28 2020  HTTP/student-storage-2.42.fr@42.FR
